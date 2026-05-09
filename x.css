@@ -1,0 +1,41 @@
+h1{
+    color: rgb(231, 229, 81);
+    background-color: red;
+    
+
+}
+h2{
+    color: aqua;
+    background-color: rgba(235, 74, 74, 0.486);
+
+}
+h3{
+    color: blue;
+
+}
+h4{
+    color: blueviolet;
+}
+p {
+    color: rgb(178, 230, 96);
+}
+article{
+    color: rgb(88, 3, 84);
+}
+body{
+    background-color: rgba(181, 230, 209, 0.438);
+}
+:-moz-submit-invalid{
+    background-color: rgba(131, 216, 202, 0.76);
+}
+password{ 
+    background-color: #02292e
+}
+h5{
+    color: darkgreen;
+
+}
+h6{
+    color: violet;
+}
+h
